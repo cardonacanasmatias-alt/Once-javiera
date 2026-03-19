@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla del resultado del torneo</title>
+    <link rel="stylesheet" href="Estilo tablas.css">
+</head>
+<body>
+    <header>
+        <h1>Estos son los resultados que obtuvieron los equipos en el torneo</h1>
+    </header>
+    <table border="1">
+        <thead>
+            <tr>
+                <th colspan="5">Resultados del torneo</th>
+            </tr>
+            <tr>
+                <th>Fase</th>
+                <th>Equipo</th>
+                <th>Puntaje</th>
+                <th>Posición</th>
+                <th>Dinero del premio en COP</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">Finalistas</td>
+                <td>Equipo 1</td>
+                <td>100</td>
+                <td>1</td>
+                <td class="dinero-premio">5000000</td>
+            </tr>
+            <tr>
+                <td>Equipo 2</td>
+                <td>87</td>
+                <td>2</td>
+                <td class="dinero-premio">2500000</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Eliminados</td>
+                <td>Equipo 3</td>
+                <td>50</td>
+                <td>3</td>
+                <td class="dinero-premio">1000000</td>
+            </tr>
+            <tr>
+                <td>Equipo 4</td>
+                <td>25</td>
+                <td>4</td>
+                <td class="dinero-premio">500000</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="4">Total entregado en premios</th>
+                <td class="dinero-premio">9000000</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>

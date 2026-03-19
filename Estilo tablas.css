@@ -1,0 +1,22 @@
+.dinero-premio {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+td:not([class]) {
+    text-align: center;
+    font-size: 1.3em
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 75%;
+}
+
+th {
+    background-color: #4c82af;
+    color: white;
+}
