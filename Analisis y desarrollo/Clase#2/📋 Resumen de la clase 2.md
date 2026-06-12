@@ -1,6 +1,7 @@
-Esta clase se centra en descubrir lo que el cliente quiere por medio de una elicitacion
-- Elicitacion: proceso por el cual se recoge información de forma pasiva esto permite obtener información que no se mención explícitamente pero esta ahí sin necesidad de que la mencionen
-- **El Problema del Iceberg:** El programa destaca que lo que el cliente dice es solo la punta del iceberg; el analista debe indagar en lo que el usuario piensa pero no dice, y en aquello que ni siquiera sabe que necesita (procesos automáticos o miedos).
+## Elicitacion:
+ proceso por el cual se recoge información de forma pasiva esto permite obtener información que no se mención explícitamente pero esta ahí sin necesidad de que la mencionen
+## **El Problema del Iceberg:**
+ El programa destaca que lo que el cliente dice es solo la punta del iceberg; el analista debe indagar en lo que el usuario piensa pero no dice, y en aquello que ni siquiera sabe que necesita (procesos automáticos o miedos).
 - **Técnicas Clave de Descubrimiento:**
     - **Entrevistas:** Considerada la "técnica reina". Se recomienda el formato **semi-estructurado** para mantener un equilibrio entre una guía de preguntas y la flexibilidad de profundizar en temas inesperados.
     - **Encuestas:** Ideales para obtener **datos cuantitativos** de grupos grandes de personas. Se destaca el uso de la **Escala Likert** para medir actitudes y opiniones de manera medible.
